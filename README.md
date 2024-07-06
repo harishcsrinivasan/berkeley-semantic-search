@@ -1,1 +1,1 @@
-# berkeley-semantic-search
+# Berkeley Semantic Search Engine
